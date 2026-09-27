@@ -38,5 +38,8 @@ The **Main Activity** shows every stored contact as a card with a name, phone nu
   <img src="Screenshots/SS_7_1.png" alt="Contact List (RecyclerView + SQLite)" width="260">
 </p>
 
-Enrollment No: 24012011097
-Last Updated: September 27, 2026
+---
+
+<p align="center">
+  <sub>👤 <b>Krish Patel</b> &nbsp;•&nbsp; 🆔 <b>24012011097</b> &nbsp;•&nbsp; 🕒 Last Updated: <b>September 27, 2026</b></sub>
+</p>

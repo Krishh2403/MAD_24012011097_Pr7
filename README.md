@@ -32,11 +32,11 @@ The **Main Activity** shows every stored contact as a card with a name, phone nu
 
 - **INTERNET Permission:** Declared in the manifest so the app can reach the JSON API over the network.
 
-## Screenshots
+## Screenshot
 
-| Contact List (RecyclerView + SQLite) |
-|---|
-| ![Contact List](Screenshots/SS_7_1.png) |
+<p align="center">
+  <img src="Screenshots/SS_7_1.png" alt="Contact List (RecyclerView + SQLite)" width="260">
+</p>
 
 Enrollment No: 24012011097
 Last Updated: September 27, 2026
